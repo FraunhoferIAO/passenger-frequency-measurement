@@ -3,7 +3,7 @@
 Source code and config files for Medium articles about *Passenger Frequency Measurement*:
 
 * [Part I: Technical background and setup of Paxcounter for passenger frequency measurement](https://medium.com/research-center-kodis/passenger-frequency-measurement-part-i-6a75d2aa63fd)
-* Part II: Pull and save passenger frequency data
+* [Part II: Pull and save passenger frequency data](https://medium.com/research-center-kodis/passenger-frequency-measurement-part-ii-db9f4e5f2869)
 * Part III: Visualize passenger frequency data (coming soon)
 
 ## Structure
