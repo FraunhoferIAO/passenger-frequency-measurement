@@ -1,0 +1,13 @@
+.vscode
+.idea
+
+connector/target/
+connector/.env
+
+dashboard/__pycache__/
+dashboard/venv/
+dashboard/.env
+
+database/libs/
+database/risingwave*
+database/venv/
